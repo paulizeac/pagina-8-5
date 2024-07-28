@@ -52,3 +52,17 @@ background-repeat: no-repeat;
         float: left;
         background-repeat: no-repeat;
         }
+        .imgpaulina{
+height: 700px;
+width: 754px;
+background-image: url(paulina.jpg);
+float: left;
+background-repeat: no-repeat;
+        }
+        .imgdulce{
+height: 750px;
+width: 748px;
+background-image: url(dulce.jpg);
+float: left;
+background-repeat: no-repeat;
+        }
