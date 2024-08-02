@@ -66,3 +66,9 @@ background-image: url(dulce.jpg);
 float: left;
 background-repeat: no-repeat;
         }
+        .imgS{
+height: 1159px;
+width: 1080px;
+background-image: url(imgS.jpeg);
+background-repeat: no-repeat;
+        }
