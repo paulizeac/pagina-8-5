@@ -72,3 +72,36 @@ width: 1080px;
 background-image: url(imgS.jpeg);
 background-repeat: no-repeat;
         }
+        .imgM{
+height: 532px;
+width: 1280px;
+background-image: url(imgM.jpg);
+        }
+        .imgM2{
+height: 552px;
+width: 1280px;
+background-image: url(imgM2.jpg);
+        }
+        .imgM3{
+            height: 82px;
+            width: 92px;
+            background-image: url(imgM3.png);
+                    }
+        .imgM4{
+height: 532px;
+width: 858px;
+background-image: url(imgM4.jpg);
+        }
+        .titulo2{
+            font-size: 60px;
+            color: black;
+            text-align: center;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            
+            }
+   .imgT{
+height: 459px;
+width: 726px;
+background-image: url(imgT.jpeg);
+
+   }         
