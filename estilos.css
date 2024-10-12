@@ -154,3 +154,13 @@ background-image: url(imgB5.jpeg);
 background-image: url(imgB6.jpeg);
                                 
  }
+ .imgQ2{
+height: 400px;
+width: 750px;
+background-image: url(imgQ2.jpeg);
+ }
+ .imgQ3{
+height: 1163px;
+width: 986px;
+background-image: url(imgQ3.jpeg);
+ }
