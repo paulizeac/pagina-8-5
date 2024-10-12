@@ -136,4 +136,21 @@ height: 720px;
 width: 1280px;;
 background-image: url(imgM10.jpg);
            }
-           
+           .imgB4{
+height: 609px;
+width: 1492px;
+background-image: url(imgB4.jpeg);
+
+           }
+           .imgB5{
+height: 900px;
+width: 900px;
+background-image: url(imgB5.jpeg);
+                
+ }
+.imgB6{
+ height: 285px;
+ width: 670px;
+background-image: url(imgB6.jpeg);
+                                
+ }
