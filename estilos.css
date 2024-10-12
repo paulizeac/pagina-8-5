@@ -20,7 +20,7 @@ body{
 }
 .titulo{
 font-size: 60px;
-color: black;
+color: rgb(253, 3, 3);
 text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
@@ -94,7 +94,7 @@ background-image: url(imgM4.jpg);
         }
         .titulo2{
             font-size: 60px;
-            color: black;
+            color: rgb(245, 5, 5);
             text-align: center;
             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
             
@@ -105,3 +105,35 @@ width: 726px;
 background-image: url(imgT.jpeg);
 
    }         
+   .imgM5{
+height: 720px;
+width: 1280px;
+background-image: url(imgM5.jpg);
+   }
+   .imgM6{
+        height: 171px;
+        width: 204px;
+        background-image: url(imgM6.png);
+           }
+           .imgM7{
+height: 129px;
+width: 215px;
+background-image: url(imgM7.png);
+           }
+           .imgM8{
+height: 174px;
+width: 218px;
+background-image: url(imgM8.png);
+           }
+           .imgM9{
+height: 141px;
+width: 266px;
+background-image: url(imgM9.jpg);
+
+           }
+           .imgM10{
+height: 720px;
+width: 1280px;;
+background-image: url(imgM10.jpg);
+           }
+           
